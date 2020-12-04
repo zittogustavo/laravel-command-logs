@@ -26,3 +26,10 @@ protected function defineConsoleSchedule() {
     $this->schedule($schedule);
 }
 ```
+
+### Credits
+
+This package was developed by [Gustavo Zitto](https://github.com/zittogustavo/).
+
+### License
+This project is released under the [MIT License] (https://opensource.org/licenses/MIT).
