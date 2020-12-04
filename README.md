@@ -10,7 +10,7 @@ This simple package create a log for each schedule commmand that is executed in 
 `composer require zittogustavo/laravel-command-logs`
 
 ## Usage
-In your Kernel.php file:
+In your app/Console/Kernel.php file:
 
 * Import vendor as:
 `use Zitto\Commandlog\CommandLog;`
