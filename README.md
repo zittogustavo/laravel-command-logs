@@ -1,5 +1,5 @@
 # Laravel Commands Log
-Create logs for laravel commands. 
+Create logs for laravel schedule commands. 
 
 ## Overview
 This simple package create a log for each schedule commmand that is executed in your Laravel project. The log is store in the storage/logs folder with name as: "command_name-date" (ex: inspire-2020-12-04.log).
