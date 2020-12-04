@@ -1,2 +1,2 @@
-# laravel-command-logs
+# Laravel Commands Log
 Create logs for laravel commands. 
