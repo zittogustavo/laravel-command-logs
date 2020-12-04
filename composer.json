@@ -1,0 +1,13 @@
+{
+    "name": "gzitto/commandlog",
+    "description": "Create logs for laravel commands.",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "zittogustavo",
+            "email": "zittogustavo@gmail.com"
+        }
+    ],
+    "require": {}
+}
